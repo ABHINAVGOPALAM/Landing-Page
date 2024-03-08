@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ 
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+}
+
+a{
+    text-decoration: none;
+    color:#e5e7eb;
+    font-size: 18px;
+}
+h4{
+    color: #f9faf8;
+    font-size: 24px;
+}
+.header{
+    padding:16px 64px;
+    display: flex;
+    background-color: #1f2937;
+    justify-content: space-between;
+}
